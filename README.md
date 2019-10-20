@@ -1,3 +1,3 @@
 # GoodGame
 
-# This is a message from paul mars.
+# This is a message from David Sun, Paul Mars.
